@@ -5,38 +5,38 @@
     },
     "weather": [
         {
-            "id": 801,
-            "main": "Clouds",
-            "description": "few clouds",
-            "icon": "02n"
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
         }
     ],
     "base": "stations",
     "main": {
         "temp": 14.94,
-        "feels_like": 14.37,
+        "feels_like": 14.5,
         "temp_min": 14.94,
         "temp_max": 14.94,
-        "pressure": 1014,
-        "humidity": 72,
-        "sea_level": 1014,
-        "grnd_level": 1012
+        "pressure": 1006,
+        "humidity": 77,
+        "sea_level": 1006,
+        "grnd_level": 1004
     },
-    "visibility": 10000,
+    "visibility": 9656,
     "wind": {
-        "speed": 3.09,
-        "deg": 330
+        "speed": 2.06,
+        "deg": 320
     },
     "clouds": {
-        "all": 20
+        "all": 0
     },
-    "dt": 1745146616,
+    "dt": 1746959022,
     "sys": {
         "type": 1,
         "id": 8076,
         "country": "KR",
-        "sunrise": 1745096030,
-        "sunset": 1745143800
+        "sunrise": 1746909065,
+        "sunset": 1746959283
     },
     "timezone": 32400,
     "id": 1842025,
