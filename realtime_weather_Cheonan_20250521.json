@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 127.1522,
+        "lat": 36.8065
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 22.8,
+        "feels_like": 23.67,
+        "temp_min": 22.8,
+        "temp_max": 22.8,
+        "pressure": 1009,
+        "humidity": 97,
+        "sea_level": 1009,
+        "grnd_level": 996
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.76,
+        "deg": 163,
+        "gust": 1.62
+    },
+    "clouds": {
+        "all": 66
+    },
+    "dt": 1747766163,
+    "sys": {
+        "type": 1,
+        "id": 8090,
+        "country": "KR",
+        "sunrise": 1747772385,
+        "sunset": 1747823788
+    },
+    "timezone": 32400,
+    "id": 1845759,
+    "name": "Cheonan",
+    "cod": 200
+}

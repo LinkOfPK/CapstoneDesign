@@ -1,0 +1,53 @@
+{
+  "emotion_vector": {
+    "Warmth": 0.7163333333333334,
+    "Comfort": 0.7453333333333334,
+    "Dryness": 0.0,
+    "Brightness": 0.5,
+    "Energy": 0.22633333333333333,
+    "Clarity": 0.5,
+    "Dreamy": 1.0
+  },
+  "contributions": {
+    "Warmth": 0.716,
+    "Comfort": 0.671,
+    "Dryness": 0.0,
+    "Brightness": 0.5,
+    "Energy": 0.158,
+    "Clarity": 0.3,
+    "Dreamy": 0.5
+  },
+  "emotion_genres": {
+    "Warmth": [
+      "acoustic",
+      "indie"
+    ],
+    "Comfort": [
+      "lo-fi",
+      "chillhop"
+    ],
+    "Dryness": [
+      "folk",
+      "minimal"
+    ],
+    "Brightness": [
+      "pop",
+      "sunshine pop"
+    ],
+    "Energy": [
+      "edm",
+      "dance",
+      "electropop"
+    ],
+    "Clarity": [
+      "ambient",
+      "instrumental"
+    ],
+    "Dreamy": [
+      "dream pop",
+      "ambient pop",
+      "shoegaze",
+      "chillwave"
+    ]
+  }
+}
